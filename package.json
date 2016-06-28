@@ -23,10 +23,5 @@
     "gulp-postcss": "^6.0.1",
     "gulp-sass": "^2.0.4",
     "run-sequence": "^1.1.4"
-  },
-  "dependencies": {
-    "angular": "^1.4.7",
-    "angular-animate": "^1.4.7",
-    "angular-ui-router": "^0.2.15"
   }
 }
